@@ -1,2 +1,3 @@
 # node-project-collection
-udemy &amp; inflearn 강좌 내용 정리
+udemy 강좌 리스트
+- [https://www.udemy.com/course/nodejs-mvc-rest-apis-graphql-deno](https://www.udemy.com/course/nodejs-mvc-rest-apis-graphql-deno)
