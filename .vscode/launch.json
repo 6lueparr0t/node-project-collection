@@ -8,10 +8,11 @@
       "type": "node",
       "request": "launch",
       "name": "프로그램 시작",
-      "skipFiles": [
-        "<node_internals>/**"
-      ],
-      "program": "${file}"
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${file}",
+      "restart": true,
+      "runtimeExecutable": "nodemon",
+      "console": "integratedTerminal"
     }
   ]
 }
