@@ -17,5 +17,5 @@ docker-compose up -d
 # Server : mysql:3306
 # Username : root
 # Password : secret
-# Databaase : node-complete
+# Database : node-complete
 ```
